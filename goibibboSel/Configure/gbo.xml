@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Details>
+	<trip>
+		<value>roundtrip</value>
+		<roundtrip>gi_roundtrip_label</roundtrip>
+		<oneway>gi_oneway_label</oneway>
+	</trip>
+	
+	<fromcity>
+		<path>gosuggest_inputSrc</path>
+		<value>Pune</value>	
+	</fromcity>
+	
+	<tocity>
+		<path>gosuggest_inputDest</path>
+		<value>Mumbai</value>	
+	</tocity>
+	
+	<departdate>
+		<path>(//input[@class="form-control inputTxtLarge widgetCalenderTxt"])[1]</path>
+		<value>20181214</value>
+	</departdate>
+	
+	<returndate>
+		<path>(//input[@class="form-control inputTxtLarge widgetCalenderTxt"])[2]</path>
+		<value>20181218</value>
+	</returndate>
+	
+	<class>
+		<path>//select[@id="gi_class"]</path>		
+	</class>
+	
+	<travellers>
+		<path>//a[@id="pax_link_common"]</path>
+		<adult>
+			<adultpathminus>//button[@id="adultPaxMinus"]</adultpathminus>
+			<adultpathplus>//button[@id="adultPaxPlus"]</adultpathplus>
+			<adultval>2</adultval>
+			<adultNaN>//input[@id="adultPaxBox"]</adultNaN>
+		</adult>
+		<child>
+			<childpathminus>//button[@id="childPaxMinus"]</childpathminus>
+			<childpathplus>//button[@id="childPaxPlus"]</childpathplus>
+			<childval>1</childval>
+		</child>
+		<infant>
+			<infantpathminus>//button[@id="infantPaxMinus"]</infantpathminus>
+			<infantpathplus>//button[@id="infantPaxPlus"]</infantpathplus>
+			<infantval>0</infantval>
+		</infant>
+	</travellers>
+	
+	<chkbx1>student_fare_check</chkbx1>
+	<chkbx2>registerFareAlert</chkbx2>
+	<GoBtn>//button[@class="width100 button orange xlarge"]</GoBtn>
+	
+	<bookbtn>//input[@class="button orange fr"]</bookbtn>
+</Details>

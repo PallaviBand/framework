@@ -1,0 +1,4 @@
+IEurl   = webdriver.ie.driver
+IEpath  = D:\\adselJAR\\IEDriverServer.exe
+Chromeurl  = webdriver.chrome.driver
+Chromepath = D:\\adselJAR\\chromedriver.exe

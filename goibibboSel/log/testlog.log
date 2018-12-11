@@ -1,0 +1,359 @@
+2018-12-10 13:17:40,247 - CrossBrowser -INFO - Chrome Opened
+2018-12-10 13:28:59,644 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-10 13:29:33,018 - CrossBrowser -INFO - Loading Website
+2018-12-10 13:30:37,512 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-10 13:31:09,181 - CrossBrowser -INFO - Loading Website
+2018-12-10 13:38:33,942 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-10 13:39:11,096 - CrossBrowser -INFO - Loading Website
+2018-12-10 13:42:02,932 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-10 13:42:38,131 - CrossBrowser -INFO - Loading Website
+2018-12-10 15:16:09,148 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-10 15:16:38,906 - CrossBrowser -INFO - Loading Website
+2018-12-10 15:25:35,109 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-10 15:26:06,577 - CrossBrowser -INFO - Loading Website
+2018-12-10 15:46:29,797 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-10 15:47:01,386 - CrossBrowser -INFO - Loading Website
+2018-12-10 15:47:01,729 - CrossBrowser -INFO - Round Trip Selected
+2018-12-10 15:47:03,225 - CrossBrowser -INFO - Source is Pune
+2018-12-10 15:47:04,767 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-10 15:47:06,468 - CrossBrowser -INFO - Departure date entered
+2018-12-10 15:47:08,829 - CrossBrowser -INFO - Return date entered
+2018-12-10 17:18:34,486 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-10 17:19:08,154 - CrossBrowser -INFO - Loading Website
+2018-12-10 17:19:08,745 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-10 17:19:10,420 - CrossBrowser -INFO - Source is Pune
+2018-12-10 17:19:11,978 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-10 17:19:13,633 - CrossBrowser -INFO - Departure date entered
+2018-12-11 09:02:55,136 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 09:03:25,594 - CrossBrowser -INFO - Loading Website
+2018-12-11 09:03:25,937 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 09:03:27,441 - CrossBrowser -INFO - Source is Pune
+2018-12-11 09:03:28,936 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 09:03:30,648 - CrossBrowser -INFO - Departure date entered
+2018-12-11 09:03:39,838 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 09:03:44,522 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 09:03:44,874 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 09:08:11,998 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 09:09:28,109 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 09:09:59,070 - CrossBrowser -INFO - Loading Website
+2018-12-11 09:09:59,417 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 09:10:00,920 - CrossBrowser -INFO - Source is Pune
+2018-12-11 09:10:02,422 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 09:10:04,027 - CrossBrowser -INFO - Departure date entered
+2018-12-11 09:10:05,572 - CrossBrowser -INFO - Return date entered
+2018-12-11 09:10:12,450 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 09:10:17,198 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 09:10:17,442 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 09:10:22,125 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 09:10:53,902 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 09:11:25,093 - CrossBrowser -INFO - Loading Website
+2018-12-11 09:11:25,189 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 09:11:26,613 - CrossBrowser -INFO - Source is Pune
+2018-12-11 09:11:28,135 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 09:11:29,785 - CrossBrowser -INFO - Departure date entered
+2018-12-11 09:11:36,832 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 09:11:41,298 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 09:11:41,540 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 09:12:37,182 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 09:13:11,164 - CrossBrowser -INFO - Loading Website
+2018-12-11 09:13:11,571 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 09:13:13,040 - CrossBrowser -INFO - Source is Pune
+2018-12-11 09:13:14,569 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 09:13:16,206 - CrossBrowser -INFO - Departure date entered
+2018-12-11 09:13:17,798 - CrossBrowser -INFO - Return date entered
+2018-12-11 09:13:24,883 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 09:13:29,531 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 09:13:29,767 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 09:13:32,050 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 09:13:34,545 - CrossBrowser -INFO - Loading Website
+2018-12-11 09:13:34,714 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 09:13:36,100 - CrossBrowser -INFO - Source is Pune
+2018-12-11 09:13:37,591 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 09:13:40,705 - CrossBrowser -INFO - Departure date entered
+2018-12-11 09:13:58,417 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 09:14:02,947 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 09:14:03,168 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:00:25,625 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:01:00,637 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:01:00,962 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:01:02,424 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:01:03,850 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:01:05,387 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:01:06,914 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:01:13,516 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:01:18,019 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:01:18,239 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:01:23,400 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:01:27,180 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:01:27,339 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 12:01:30,426 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:01:31,824 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:01:33,322 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:01:39,898 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:01:44,396 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:01:44,619 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:01:47,214 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:01:47,356 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:01:48,746 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:01:50,224 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:01:51,731 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:01:53,184 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:01:57,020 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:02:01,514 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:02:01,739 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:02:08,486 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:03:35,675 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:04:11,528 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:04:11,852 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:04:13,300 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:04:14,711 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:04:16,298 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:04:17,798 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:04:24,378 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:04:28,894 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:04:29,096 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:04:31,300 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:04:34,248 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:04:34,399 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 12:04:35,809 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:04:37,357 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:04:40,665 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:04:47,224 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:04:51,748 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:04:51,942 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:04:55,703 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:04:55,854 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:04:57,258 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:04:58,661 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:05:00,254 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:05:01,754 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:05:05,617 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:05:10,098 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:05:10,293 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:05:12,300 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:05:33,822 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:06:07,615 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:06:07,943 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:06:09,381 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:06:10,808 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:06:12,324 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:06:13,894 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:06:20,478 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:06:24,959 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:06:25,198 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:06:27,228 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:06:31,606 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:06:31,779 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 12:06:33,189 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:06:36,296 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:06:37,823 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:06:44,396 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:06:48,891 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:06:49,123 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:06:52,937 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:06:53,085 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:06:54,489 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:06:55,922 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:06:57,415 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:06:58,875 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:07:38,505 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:19:29,770 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:20:08,270 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:20:08,617 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:20:10,141 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:20:11,652 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:20:13,283 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:20:14,833 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:20:21,750 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:20:26,412 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:20:26,683 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:20:28,400 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:20:34,575 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:20:34,702 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 12:20:37,377 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:20:38,851 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:20:40,429 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:20:47,345 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:20:51,999 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:20:52,230 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:20:55,714 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:20:55,866 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:20:57,312 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:20:58,776 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:21:00,388 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:21:01,929 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:23:56,248 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:24:30,984 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:24:31,304 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:24:32,783 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:24:34,191 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:24:35,883 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:24:37,502 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:24:44,481 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:24:49,166 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:24:49,469 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:24:51,194 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:24:57,993 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:24:58,154 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 12:24:59,574 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:25:01,005 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:25:02,713 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:25:11,265 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:25:15,967 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:25:16,249 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:25:21,826 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:25:21,985 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:25:23,401 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:25:24,886 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:25:26,533 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:25:28,061 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:25:34,002 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:25:34,279 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:25:38,297 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:26:28,319 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:27:11,294 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:27:11,613 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:27:13,080 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:27:14,518 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:27:16,245 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:27:17,811 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:27:24,818 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:27:29,516 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:27:29,786 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:27:32,469 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:27:40,229 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:27:40,296 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 12:27:41,749 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:27:43,249 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:27:44,898 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:27:51,896 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:27:56,626 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:27:56,874 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:28:03,120 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:28:03,292 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:28:04,768 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:28:06,303 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:28:07,964 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:28:09,513 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:28:15,481 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:28:15,771 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:28:17,414 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:28:39,181 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:29:17,253 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:29:17,593 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:29:19,050 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:29:20,582 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:29:22,264 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:29:23,816 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:29:30,778 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:29:35,439 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:29:35,694 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:29:37,959 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:29:40,839 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:29:41,003 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 12:29:42,448 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:29:44,032 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:29:45,698 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:29:54,309 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:29:58,993 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:29:59,258 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:30:04,678 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:30:04,815 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:30:06,235 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:30:07,717 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:30:09,308 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:30:10,877 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:30:16,855 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:30:17,105 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:30:21,163 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:36:48,621 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:37:29,175 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:37:29,534 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:37:31,056 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:37:32,612 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:37:34,188 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:37:35,748 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:37:41,696 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:37:41,970 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:38:14,269 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:38:14,438 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:38:15,867 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:38:17,384 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:38:19,058 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:38:20,728 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:38:27,673 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:38:32,378 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:38:32,648 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:38:36,597 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 12:38:39,412 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:38:39,567 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 12:38:40,986 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:38:42,536 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:38:44,199 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:38:51,217 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 12:38:55,916 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 12:38:56,191 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 12:39:11,198 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 12:40:00,802 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:40:01,129 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:40:02,645 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:40:04,099 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:40:04,549 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:40:04,982 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:40:09,886 - CrossBrowser -INFO - Loading Website
+2018-12-11 12:40:10,035 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 12:40:11,451 - CrossBrowser -INFO - Source is Pune
+2018-12-11 12:40:12,932 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 12:40:14,566 - CrossBrowser -INFO - Departure date entered
+2018-12-11 12:40:16,178 - CrossBrowser -INFO - Return date entered
+2018-12-11 12:40:23,207 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 13:29:20,747 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 13:30:00,319 - CrossBrowser -INFO - Loading Website
+2018-12-11 13:30:00,672 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 13:30:02,214 - CrossBrowser -INFO - Source is Pune
+2018-12-11 13:30:03,730 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 13:30:05,400 - CrossBrowser -INFO - Departure date entered
+2018-12-11 13:30:06,995 - CrossBrowser -INFO - Return date entered
+2018-12-11 13:30:12,869 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 13:30:13,145 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 13:30:47,554 - CrossBrowser -INFO - Loading Website
+2018-12-11 13:30:47,716 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 13:30:49,150 - CrossBrowser -INFO - Source is Pune
+2018-12-11 13:30:50,666 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 13:30:52,295 - CrossBrowser -INFO - Departure date entered
+2018-12-11 13:30:53,892 - CrossBrowser -INFO - Return date entered
+2018-12-11 13:31:00,884 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 13:31:05,610 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 13:31:05,891 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 13:31:15,643 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 13:31:18,514 - CrossBrowser -INFO - Loading Website
+2018-12-11 13:31:18,665 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 13:31:20,094 - CrossBrowser -INFO - Source is Pune
+2018-12-11 13:31:21,600 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 13:33:42,688 - CrossBrowser -INFO - Chrome Browser Opened
+2018-12-11 13:34:11,898 - CrossBrowser -INFO - Loading Website
+2018-12-11 13:34:12,270 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 13:34:13,733 - CrossBrowser -INFO - Source is Pune
+2018-12-11 13:34:15,285 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 13:34:16,919 - CrossBrowser -INFO - Departure date entered
+2018-12-11 13:34:18,564 - CrossBrowser -INFO - Return date entered
+2018-12-11 13:34:24,550 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 13:34:24,833 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 13:35:00,032 - CrossBrowser -INFO - Loading Website
+2018-12-11 13:35:00,734 - CrossBrowser -INFO - Round Trip Selected
+2018-12-11 13:35:02,214 - CrossBrowser -INFO - Source is Pune
+2018-12-11 13:35:03,703 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 13:35:05,334 - CrossBrowser -INFO - Departure date entered
+2018-12-11 13:35:06,947 - CrossBrowser -INFO - Return date entered
+2018-12-11 13:35:13,819 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 13:35:18,568 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 13:35:18,927 - CrossBrowser -INFO - Get Set Go button clicked
+2018-12-11 13:35:19,992 - CrossBrowser -INFO - Book Button Verified
+2018-12-11 13:35:22,527 - CrossBrowser -INFO - Loading Website
+2018-12-11 13:35:22,694 - CrossBrowser -INFO - One Way Trip Selected
+2018-12-11 13:35:24,137 - CrossBrowser -INFO - Source is Pune
+2018-12-11 13:35:25,733 - CrossBrowser -INFO - Destination is Mumbai
+2018-12-11 13:35:27,431 - CrossBrowser -INFO - Departure date entered
+2018-12-11 13:35:34,381 - CrossBrowser -INFO - Travellers are : Adults - 2	 Children - 1
+2018-12-11 13:35:39,047 - CrossBrowser -INFO - Business Class selected from Drop Down List
+2018-12-11 13:35:39,314 - CrossBrowser -INFO - Get Set Go button clicked
